@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/tanap/Desktop/Works/Codes/VoiceRecordChat/app/src/main/res/drawable/circle_border_black.xml" value="0.3594871794871795" />
+        <entry key="..\:/Users/tanap/Desktop/Works/Codes/VoiceRecordChat/app/src/main/res/drawable/circle_border_red.xml" value="0.33" />
+        <entry key="..\:/Users/tanap/Desktop/Works/Codes/VoiceRecordChat/app/src/main/res/drawable/mic_black.xml" value="0.3594871794871795" />
+        <entry key="..\:/Users/tanap/Desktop/Works/Codes/VoiceRecordChat/app/src/main/res/drawable/mic_green.xml" value="0.3594871794871795" />
+        <entry key="..\:/Users/tanap/Desktop/Works/Codes/VoiceRecordChat/app/src/main/res/drawable/mic_red.xml" value="0.3594871794871795" />
+        <entry key="..\:/Users/tanap/Desktop/Works/Codes/VoiceRecordChat/app/src/main/res/drawable/mic_white.xml" value="0.3594871794871795" />
+        <entry key="..\:/Users/tanap/Desktop/Works/Codes/VoiceRecordChat/app/src/main/res/drawable/round_chat_item_bg.xml" value="0.33" />
+        <entry key="..\:/Users/tanap/Desktop/Works/Codes/VoiceRecordChat/app/src/main/res/drawable/voice_enable_button_selector.xml" value="0.20729166666666668" />
+        <entry key="..\:/Users/tanap/Desktop/Works/Codes/VoiceRecordChat/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/tanap/Desktop/Works/Codes/VoiceRecordChat/app/src/main/res/layout/voice_chat_item.xml" value="0.5110663983903421" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

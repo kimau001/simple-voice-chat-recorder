@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">VoiceRecordChat</string>
+    <string name="text_record_time">%d:%02d</string>
+</resources>
